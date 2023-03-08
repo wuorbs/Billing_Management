@@ -1,0 +1,23 @@
+# ninja log v5
+843	973	6999535193573047	Billing_Management.exe	4f8aaea0c46a40cf
+11	817	6999535192049730	CMakeFiles/Billing_Management.dir/Menu.cpp.obj	bdcf166d455f42e7
+3	830	6999535192176009	CMakeFiles/Billing_Management.dir/main.cpp.obj	699dbfe1b3586564
+3	838	6999529935080606	CMakeFiles/Billing_Management.dir/CardVector.cpp.obj	9a34b9d13d48ac82
+17	843	6999535192307143	CMakeFiles/Billing_Management.dir/BillVector.cpp.obj	599bc68dc886509e
+11	805	6999535554243982	CMakeFiles/Billing_Management.dir/Menu.cpp.obj	bdcf166d455f42e7
+18	812	6999535554303987	CMakeFiles/Billing_Management.dir/BillVector.cpp.obj	599bc68dc886509e
+3	822	6999535554303987	CMakeFiles/Billing_Management.dir/main.cpp.obj	699dbfe1b3586564
+822	946	6999535555618594	Billing_Management.exe	4f8aaea0c46a40cf
+10	984	6999622371893558	CMakeFiles/Billing_Management.dir/Menu.cpp.obj	bdcf166d455f42e7
+23	987	6999622371943229	CMakeFiles/Billing_Management.dir/BillVector.cpp.obj	599bc68dc886509e
+16	992	6999622371997626	CMakeFiles/Billing_Management.dir/main.cpp.obj	699dbfe1b3586564
+3	1075	6999622372818997	CMakeFiles/Billing_Management.dir/CardVector.cpp.obj	9a34b9d13d48ac82
+1075	1254	6999622374302612	Billing_Management.exe	4f8aaea0c46a40cf
+3	897	6999626731159631	CMakeFiles/Billing_Management.dir/CardVector.cpp.obj	9a34b9d13d48ac82
+897	1015	6999626732305377	Billing_Management.exe	4f8aaea0c46a40cf
+2	868	6999627649790877	CMakeFiles/Billing_Management.dir/CardVector.cpp.obj	9a34b9d13d48ac82
+868	992	6999627651004134	Billing_Management.exe	4f8aaea0c46a40cf
+4	850	6999627999426888	CMakeFiles/Billing_Management.dir/CardVector.cpp.obj	9a34b9d13d48ac82
+851	983	6999628000659075	Billing_Management.exe	4f8aaea0c46a40cf
+3	896	6999630590185677	CMakeFiles/Billing_Management.dir/CardVector.cpp.obj	9a34b9d13d48ac82
+896	1016	6999630591362403	Billing_Management.exe	4f8aaea0c46a40cf
